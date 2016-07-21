@@ -5,6 +5,7 @@ The goal for today's lab is to create a simple mapkit app that displays the loca
 ![map-gif](MapKitLab.gif)
 
 Make sure to use the following:
+
 1. MapKit object
 2. At least 3 buttons
 3. Constraints
